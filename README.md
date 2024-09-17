@@ -40,3 +40,24 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ```bash
 npx create-next-app@latest
 ```
+
+## Install Next UI
+
+```bash
+npm i @nextui-org/react framer-motion
+```
+
+## Install Plugin Tailwindcss 
+
+```bash
+npm install -D prettier prettier-plugin-tailwindcss
+```
+
+## Install Autoprefixer
+
+```bash
+npm i autoprefixer
+npm install autoprefixer --save-dev
+```
+
+
